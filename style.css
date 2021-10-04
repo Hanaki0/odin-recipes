@@ -1,0 +1,34 @@
+/* styles for Odin Recipe */
+
+body {
+    text-align: center;
+}
+
+#banner {
+background-color: rgba(255, 196, 0, 0.89);
+font-size: 40px;
+font-weight: bold;
+}
+
+#banner #logo {
+    height: 60px;
+    width: auto;
+    vertical-align: text-bottom;
+}
+
+#recipelogo {
+    height: auto; 
+    width: 300px;
+}
+
+.section {
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 6px;
+    font-family: cursive, sans-serif;
+}
+
+.recipe {
+    color: rgb(0, 0, 0);;
+}
+
